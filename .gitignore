@@ -1,3 +1,4 @@
 venv/
-READMEFORME
+READMEFORME.txt
 .env
+guineapig.py
