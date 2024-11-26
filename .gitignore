@@ -2,3 +2,4 @@ venv/
 READMEFORME.txt
 .env
 guineapig.py
+.devcontainer/
